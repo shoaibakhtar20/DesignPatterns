@@ -1,5 +1,5 @@
 Types of design patterns - 
-
+--------------------------
 1. Creational - object creation and initialization
 eg- Singleton, Factory, Abstract Factory
 
@@ -8,3 +8,12 @@ eg - Adaptor, Bridge
 
 3. Behavioural - communication between classes and objects
 eg- Chain of responsibility, Command Interpreter
+
+
+SINGLETON DESIGN PATTERNS-
+---------------------------
+-> only single object for a class is created and instantiated 
+-> controls concurrent access to the resource
+-> more controlled
+
+
