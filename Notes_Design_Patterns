@@ -1,4 +1,10 @@
 Types of design patterns - 
-1. Creational - Singleton, Factory, Abstract Factory
-2. Structural - Adaptor, Bridge
-3. Behavioural - Chain of responsibility, Command Interpreter
+
+1. Creational - object creation and initialization
+eg- Singleton, Factory, Abstract Factory
+
+2. Structural - class and object composition
+eg - Adaptor, Bridge
+
+3. Behavioural - communication between classes and objects
+eg- Chain of responsibility, Command Interpreter
